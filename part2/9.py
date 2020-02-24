@@ -8,4 +8,4 @@ def shape_data(shape,*args):
 	else:
 		print('unknown shape')
 shape_data('circle',15)
-shape_data('rectangle',10,5)
+shape_data('rectangle',20,10)
